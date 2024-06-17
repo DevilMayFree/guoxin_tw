@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+ <html lang="zh-Hant-TW">
+
+	
+	<head itemscope="itemscope" itemtype="http://schema.org/WebSite">
+		
+				
+		<meta http-equiv="content-language" content="zh-tw">
+		
+	    
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+		
+		
+		<title>國新科技股份有限公司</title>
+		<meta name="description" content="國新科技為強茂集團之轉投資公司，成立於2000年3月。
+主要產品為磊晶晶圓(Epitaxy)及蕭特基晶圓(Schottky)及TVS and Zener 晶圓等，技術能力及產品良率皆優於同業。國新科技擁有堅強的研發技術團隊，全新的廠房及精良的設備，為一專業的晶圓廠。">
+		<meta property="og:title" content="國新科技股份有限公司">
+		<meta property="og:description" content="國新科技為強茂集團之轉投資公司，成立於2000年3月。
+主要產品為磊晶晶圓(Epitaxy)及蕭特基晶圓(Schottky)及TVS and Zener 晶圓等，技術能力及產品良率皆優於同業。國新科技擁有堅強的研發技術團隊，全新的廠房及精良的設備，為一專業的晶圓廠。">
+		<meta property="og:image" content="https://www.pynmax.com.tw ">
+		<meta property="og:image:width" content="520">
+    	<meta property="og:image:height" content="520">
+    	<meta name="twitter:title" content="國新科技股份有限公司">
+    	<meta name="twitter:description" content="國新科技為強茂集團之轉投資公司，成立於2000年3月。
+主要產品為磊晶晶圓(Epitaxy)及蕭特基晶圓(Schottky)及TVS and Zener 晶圓等，技術能力及產品良率皆優於同業。國新科技擁有堅強的研發技術團隊，全新的廠房及精良的設備，為一專業的晶圓廠。">
+    	<meta name="twitter:image" content="https://www.pynmax.com.tw ">
+
+
+		
+		
+		<!-- Google Tag Manager -->
+		
+	    <link rel="icon" href="/assets/img/pynmax.ico"/>
+	    <link rel="stylesheet" href="/assets/js/vendor/swiper-4.4.6/dist/css/swiper.min.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/js/vendor/slick-1.8.1/slick/slick-theme.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/js/vendor/slick-1.8.1/slick/slick.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/fonts/Icon/style.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/css/css/jquery.scrollbar.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/css/style.css?v=20240614"/>
+  
+		
+	  		  	
+	  		  	
+	</head>
+
+	<body class="search" id="search">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id="
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<input class="base-url-p" type="hidden" value="https://www.pynmax.com.tw">
+		<input class="base-url" type="hidden" value="https://www.pynmax.com.tw/tw">
+		<input type="hidden" id="_token" value="PJphzhQVJ5pLp0V1LgI68ljgdY6M1gZwWyRaOB9r">
+		
+    <main>
+      <div class="search-bar">
+        <div class="search-bar-container">
+          <div class="search-bar-inner">
+            <div class="search-bar-select" id="searchType" data-type="search">search</div>
+            <hr class="search-bar-gutter"/>
+            <div class="search-input">
+              <input class="search-bar__input" type="text" value="" placeholder="Search or Cross-References" data-type="search" id="searchInput"/>
+              <div class="search-bar__close"></div><i class="icon icon-search" onclick="goSearch()"></i>
+            </div>
+            <ul class="search-bar-dropDown">
+              <li class="search-bar-dropDown__item" onclick="changeSearchType(this)" data-type="crossreference">Cross reference</li>              
+            </ul>
+          </div>
+          <div class="search-back"><a class="search__back" href="https://www.pynmax.com.tw/tw">返回</a></div>
+        </div>
+      </div>
+      
+      <article class="search-a">
+        <ul class="search-tags">
+          <li class="search-tags-item"><a class="search-tags__href search-tags__href--active  none " href="javascript:;">產品</a></li>
+          <li class="search-tags-item"><a class="search-tags__href" href="javascript:;">應用</a></li>
+          <li class="search-tags-item"><a class="search-tags__href  none " href="javascript:;">封裝類別</a></li>
+        </ul>
+        
+                <section class="search-block">
+          <div class="empty">
+            <p class="empty__title">搜尋結果</p>
+            <p class="empty__subtitle">共找到0個產品</p>
+          </div>
+        </section>
+                
+
+                <section class="search-block">
+          <div class="empty">
+            <p class="empty__title">搜尋結果</p>
+            <p class="empty__subtitle">共找到0個應用</p>
+          </div>
+        </section>
+        
+                <section class="search-block">
+          <div class="empty">
+            <p class="empty__title">搜尋結果</p>
+            <p class="empty__subtitle">共找到0個封裝類別</p>
+          </div>
+        </section>
+        
+
+      </article>
+      
+    </main>
+    <div class="lb lb-add">
+      <div class="lb-main">
+        <div class="lb-close__mask lb-close"></div>
+        <div class="lb-container">
+          <div class="lb-block">
+            <div class="lb-inner">
+              <div class="confirm__title">新增詢問清單?</div>
+              <div class="article__gutter"></div>
+              <p class="confirm__p">您確定您要新增此品項至詢問清單中?</p>
+              <div class="select-btn">
+                <button class="select__btn lb-close">不，取消</button>
+                <button class="select__btn lb-close" onclick="addItemInquiry(this)" data-tag="-" id="addBoxInquiry">是的，新增</button>
+              </div>
+            </div>
+            <button class="close-btn lb-close">關閉<span></span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="lb lb-more">
+      <div class="lb-main">
+        <div class="lb-close__mask lb-close"></div>
+        <div class="lb-container">
+          <div class="lb-block">
+            <div class="lb-inner">
+              <div class="confirm__title" id="moreBoxTitle">BAT721AC</div>
+              <div class="article__gutter"></div>
+              <ul class="list-opation">
+                <li class="list-opation-item">
+                  <a class="list-opation-href js-openlb" href="javascript:;" data-open="lb-add" id="moreBoxInquiry" data-tag="-" onclick="addItemInquiryBox(this)">
+                    <i class="icon icon-addFile"></i><span class="list-opation__p">新增詢問單</span>
+                  </a>
+                </li>
+                <li class="list-opation-item">
+                  <a class="list-opation-href" href="javascript:;" id="moreBoxDataSheet" target="" onclick="temp()">
+                    <i class="icon icon-download"></i><span class="list-opation__p">規格書</span>
+                  </a>
+                </li>
+                <li class="list-opation-item">
+                  <a class="list-opation-href" href="product_instock.html" id="moreBoxSample">
+                    <i class="icon icon-cart"></i><span class="list-opation__p">樣品訂購</span>
+                  </a>
+                </li>
+              </ul>
+              
+              <div class="guide_block">
+                <div class="guide_scroll">
+                  <div class="guide_llst">
+                    <div class="list_title">File type A</div>
+                    <ul class="list_item">
+                      <li>
+                        <div class="item_name">Attachment Name A</div><a class="icon-download" href="javascript:;"></a>
+                      </li>                    
+                    </ul>
+                  </div>
+                  <div class="guide_llst">
+                    <div class="list_title">File type B</div>
+                    <ul class="list_item">
+                      <li>
+                        <div class="item_name">Attachment Name 1</div><a class="icon-download" href="javascript:;"></a>
+                      </li>                    
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+            <button class="close-back lb-close">BACK</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+		
+	    <script src="/assets/js/vendor/jquery-3.3.1.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/jquery.easings.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/swiper-4.4.6/dist/js/swiper.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/jquery-scrollbar/jquery.scrollbar.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/slick-1.8.1/slick/slick.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/jquery.nicescroll-master/jquery.nicescroll.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/picturefill.min.js?v=20240614"></script>
+	    
+	    
+	    <script src="/assets/js/vendor/jquery-ui-1.12.1/jquery-ui.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/blazy.min.js?v=20240614"></script>
+	    
+	    <script src="/assets/js/main-dist.js?v=20240614"></script>
+		
+		<script>
+			$("li.share-item").on('click',function(event){
+				if($(this).find("i").hasClass("icon-facebook")){
+					var url = "https://www.facebook.com/sharer/sharer.php?u=" + location.href
+					window.open(url)
+				}
+				if($(this).find("i").hasClass("icon-line")){
+					var url = "https://social-plugins.line.me/lineit/share?url=" + location.href
+					window.open(url)
+				}
+				if($(this).find("i").hasClass("icon-twitter")){
+					var url = "http://twitter.com/share?url=" + location.href
+					window.open(url)
+				}
+				if($(this).find("i").hasClass("icon-linkedin")){					
+					var url = "http://www.linkedin.com/shareArticle?mini=true&url=" + location.href 
+					window.open(url)
+				}				
+
+			});
+
+			$("#searchKeyword").focus(function(){
+			    $(this).on('keydown', function (event){
+			        if (event.keyCode == 13){
+			           goSearch()
+			        }
+			      });
+			})
+			$("#searchInput").focus(function(){
+			    $(this).on('keydown', function (event){
+			        if (event.keyCode == 13){
+			           goSearch()
+			        }
+			      });
+			})
+			
+			$("li.menu-item.openMenu").hover(function(e){
+				var imgRoute = $(this).attr("data-img")
+				if(imgRoute){
+					$("#headerOpenImg").css("background-image","url('"+imgRoute+"')");
+				}
+				
+			})
+
+			$(".lan_select li").on("click",'a',function(){
+				var baseUrl = $(".base-url-p").val();
+				var baseUrl2 = $(".base-url").val();
+				var toLan = $(this).attr("data-lan");
+				baseUrl = baseUrl + "/" + toLan;
+				var nowUrl = location.href;
+				if( baseUrl != baseUrl2){
+					var toUrl = nowUrl.replace(baseUrl2, baseUrl);
+					document.location.href = toUrl;
+				}	
+			})
+			$("li.language-item ").on("click",'a',function(){
+				var baseUrl = $(".base-url-p").val();
+				var baseUrl2 = $(".base-url").val();
+				var toLan = $(this).attr("data-lan");
+				baseUrl = baseUrl + "/" + toLan;
+				var nowUrl = location.href;
+				if( baseUrl != baseUrl2){
+					var toUrl = nowUrl.replace(baseUrl2, baseUrl);
+					document.location.href = toUrl;
+				}	
+			})
+			
+
+		</script>
+
+	    	   
+	    <script type="application/ld+json">
+	      {
+	          "@context": "http://schema.org",
+	          "@type": "LocalBusiness",
+	          "url": "https://www.pynmax.com.tw",	         
+	          "name": "國新股份有限公司",
+	          "description": "國新從晶圓設計、製造，結合強茂集團的垂直整合企業模式，封裝測試、電池管理系統、觸控面板，提供多元產品與模組，對應各項市場與產業所需。",
+	          "email": "service@pynmax.com.tw",
+	          "image": "/upload/2021_06_0914/202106091616502y5kvguQe1.png",
+	          "priceRange":"-",
+	          "address": {
+	              "@type": "PostalAddress",
+	              "addressCountry": "台灣 Taiwan",
+	              "addressLocality": "高雄市 Kaohsiung City",
+	              "addressRegion": "永安區  Yong An District.",
+	              "postalCode": "82841",
+	              "streetAddress": "永工一路17-2號  No.17-2, Yong Gong 1st RD."
+	          },
+	          "telephone": "886-7-624-3919",
+	          "faxNumber": "886-7-621-4719",
+	          "hasMap": "https://www.google.com/maps/place/%E5%BC%B7%E8%8C%82%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@22.8157946,120.2520615,17z/data=!3m1!4b1!4m5!3m4!1s0x346e0c0bb2f7e19b:0x3f30b6f70b6b3571!8m2!3d22.8157897!4d120.2542502",	          
+	          "geo": {
+	              "@type": "GeoCoordinates",
+	              "latitude": "22.81602",
+	              "longitude": "120.25437"
+	          }
+	      }
+	    </script>
+
+	    <script>
+		$(".cookies_btn").on('click',function(){
+			localStorage.setItem("cookiesAccept", 1);
+		});
+		$(document).ready(function() {
+			var cookiesAccept = localStorage.getItem("cookiesAccept");
+			if(cookiesAccept!=1) $("article.cookies").show();
+		});
+
+		lightBoxOpen()
+		lightBoxClose()
+
+		var SubFlow = 0;
+
+		$(".sub_btn.event").on('click',function(e){		
+			if(SubFlow==1 || !$(".agree").hasClass("click")) return "";
+			SubFlow = 1;
+			var formData = new FormData();
+	        formData.append('newsletterSubName', $("#newsletterSubName").val());
+	        formData.append('newsletterSubMail', $("#newsletterSubMail").val());
+			$.ajax({ 
+				headers: {
+					'X-CSRF-TOKEN': $('#_token').val()
+				},
+				url: "https://www.pynmax.com.tw/tw/SubscriptionNewsLetter",
+				type: 'post',
+				data:formData,
+				processData: false,
+				contentType: false,       
+				
+			})
+			.done(function(res){
+				if(res._type=="fail"){
+					alert(res._msg);
+					SubFlow = 0;
+					return "";
+				}
+								
+				$('.sub_btn.js-openlb').click();
+				$('.sub_btn.event').removeClass("click");
+				$(".agree").removeClass("click");
+				
+				$("#newsletterSubName").val("");
+				$("#newsletterSubMail").val("");
+				SubFlow = 0;
+			});   
+		});
+		</script>
+
+		<script>
+			var nowHost = window.location.host;
+			var preview = /.wdd.*/;
+            if (preview.test(nowHost)) {
+                $('body').append("<div style='position:fixed;bottom:0;left:0;background-color:#ff00b4;color:#fff;font-size:12px;z-index:999;padding:0 30px;line-height:2'>這裡是國新的測試小天地</div>");
+            }
+		</script>
+		
+	   
+		
+	  	    <script src="/assets/js/vendor/DataTables/DataTables-1.10.18/js/jquery.dataTables.min.js"></script>
+    <script src="/assets/js/vendor/DataTables/FixedColumns-3.2.5/js/dataTables.fixedColumns.js"></script>
+    <script>
+      checkData()
+      function checkData(){
+        setTimeout(function(){
+          if($(".search-tags__href").eq(0).hasClass("none")){
+            if(!$(".search-tags__href").eq(2).hasClass("none")) $(".search-tags__href").eq(2).click() 
+          }
+        }, 100);        
+      }      
+      function downloadExport(obj){
+        var src = $(".base-url").val();
+        src = src + "/Product/downloadExportSearchProduct/" + $(obj).attr("data-id");      
+        document.location.href=src;         
+      } 
+      function downloadExport2(obj){
+        var src = $(".base-url").val();
+        src = src + "/Product/downloadExportSearchPackage/" + $(obj).attr("data-id");    
+        document.location.href=src;         
+      }   
+    </script>
+
+    <script>
+      wTableFixedThead()
+      
+      setHover()
+      function setHover(){
+          $('.pc_addfile').hover(function(e) {
+              let thisTop = $(this).offset().top - $(this).outerHeight(true)*0.7,
+                  thisLeft = $(this).offset().left + $(this).outerWidth(true)*0.7,
+                  show_obj = $(this).parents('.wTable-block').find('.hover-guide-show');              
+              /*要append的資料寫在這 */
+              var nowPN = $(".hover-guide-scroll").attr("data-tag");
+              var pn = $(this).attr("data-tag");          
+              $(".hover-guide-scroll").attr("data-tag",pn);
+              $(".guide_inquiry .js-openlb").attr("data-tag",pn);
+              var fileA = JSON.parse($(this).attr("data-json"));
+              var htmlText ='';
+              if(fileA.length>0){
+                fileA.forEach(function(fileC){
+                  htmlText += '<div class="guide_llst">';
+                  htmlText += '<div class="list_title">'+fileC.title+'</div>';
+                  htmlText += '<ul class="list_item">';
+                    fileC.File.forEach(function(file){
+                      htmlText += '<li><div class="item_name">'+file.title+'</div><a class="icon-download" href="https://www.pynmax.com.tw/tw/Product/dataDownload/'+file.id+'"></a></li>'
+                    });
+                  htmlText += '</ul>';
+                  htmlText += '</div>';              
+                });
+              }
+              $(".hover-guide-scroll").empty()
+              $(".hover-guide-scroll").append(htmlText);
+              if(htmlText.length==0) $(".hover-guide-container").hide();
+              else $(".hover-guide-container").show();
+              $('.hover-guide-scroll').scrollbar();
+              /*end append */
+
+              setTimeout(function() {
+                  show_obj.css('opacity', '1');
+              }, 200)
+              show_obj.css({
+                  'top': thisTop,
+                  'left': thisLeft
+              });
+          },function(e){
+              let show_obj = $(this).parents('.wTable-block').find('.hover-guide-show');
+              if(show_obj.is(e.relatedTarget)) return
+              show_obj.css({
+                  'opacity': '0',
+                  'top': '-100%',
+                  'left': '-100%'
+              });
+          
+          })
+          $('.hover-guide-show').on('mouseleave', function(e) {
+              $(this).css({
+                  'opacity': '0',
+                  'top': '-100%',
+                  'left': '-100%'
+              });
+          })
+      }
+
+      function changeSearchType(obj){
+        var temp = $("#searchType").attr("data-type");
+        $("#searchType").attr("data-type",$(obj).attr("data-type"))
+        $("#searchInput").attr("data-type",$(obj).attr("data-type"))
+        $(obj).attr("data-type",temp);
+        goSearch();
+      }
+
+      function goSearch(){
+        var search = $(".base-url").val()
+        var tempVal = $("#searchInput").val()
+        if(!tempVal) tempVal = "_";
+        search = search + "/Search/" + $("#searchInput").attr("data-type") + "/" +tempVal 
+        console.log(search)
+        document.location.href=search;
+      }
+
+      function addItemInquiryBox(obj){
+        $("#addBoxInquiry").attr("data-tag",$(obj).attr("data-tag")) 
+      }
+
+      function addItemInquiry(obj){
+
+        var src = $(".base-url").val();
+        src = src + "/Product/ajaxItemInquiry/" + $(obj).attr("data-tag");
+        
+        $.ajax({                
+                url: src,
+            })
+            .done(function (res) { 
+              // $("#InquiryCount").addClass("file-num") 
+              // if(res=="add") $("#InquiryCount").text($("#InquiryCount").text()*1+1)
+            });
+      }
+
+      function changeSeries(obj){
+        var keyword = $("#searchInput").val()
+        if(!$(obj).hasClass("link-item--active")){
+          $(obj).addClass("link-item--active").siblings().removeClass("link-item--active")
+          var src = $(".base-url").val()
+          src = src + "/Search/ajaxChangeSeries/" + keyword + "/" + $(obj).attr("data-id")
+          $("#downloadID").attr("data-id",$(obj).attr("data-id"))
+          $.ajax({
+             url: src,
+          })
+          .done(function (res){
+            // console.log(res.series)
+            $("#seriesList").empty()
+            $("#seriesList").append(res.series)
+            $("#productList").empty()
+            $("#productList").append(res.product)
+            $("#productListLeft").empty()
+            $("#productListLeft").append(res.productLeft)
+            $("div.nicescroll-rails").remove()
+            $('.dataTables_scrollBody').getNiceScroll().remove();
+            wTableFixedThead()
+            lightBoxOpen()
+            setHover()
+            // table.application_detail()
+            // table.application_datatable_fix()         
+          });
+        }
+        else{
+          return "";
+        }
+      }
+
+      function changePackageSeries(obj){
+        var keyword = $("#searchInput").val()
+        if(!$(obj).hasClass("link-item--active")){
+          $(obj).addClass("link-item--active").siblings().removeClass("link-item--active")
+          var src = $(".base-url").val()
+          src = src + "/Search/ajaxChangePackageSeries/" + keyword + "/" + $(obj).attr("data-id")
+          $("#downloadID2").attr("data-id",$(obj).attr("data-id"))
+          $.ajax({
+             url: src,
+          })
+          .done(function (res){
+            // console.log(res.series)
+            $("#packageSeriesList").empty()
+            $("#packageSeriesList").append(res.series)
+            $("#packageProductList").empty()
+            $("#packageProductList").append(res.product)
+            $("#packageProductListLeft").empty()
+            $("#packageProductListLeft").append(res.productLeft)
+            $("div.nicescroll-rails").remove()
+            $('.dataTables_scrollBody').getNiceScroll().remove();
+            wTableFixedThead()
+            lightBoxOpen()
+            setHover()
+            // table.application_detail()
+            // table.application_datatable_fix()         
+          });
+        }
+        else{
+          return "";
+        }
+      }
+
+      function changeApplication(obj){
+        if(!$(obj).hasClass("link-item--active")){
+          $(obj).addClass("link-item--active").siblings().removeClass("link-item--active")
+          var temp = $(obj).attr("data-id")
+          console.log(temp)
+          $("#"+temp).css("display","").siblings("ul").css("display","none")
+        }
+        else{
+          return '';
+        }
+      }
+      function temp(){}
+      function moreItemEvent(obj){   
+        var src = $(".base-url").val();
+        var tempFile = $(obj).attr("data-file")
+        $("#moreBoxSample").attr("href",src + "/Stock/" + $(obj).attr("data-tag"))
+        $("#moreBoxInquiry").attr("data-tag",$(obj).attr("data-tag"))
+        $("#moreBoxTitle").html($(obj).attr("data-tag"))
+        if(tempFile.length>0){
+          $("#moreBoxDataSheet").attr("href",tempFile)
+          $("#moreBoxDataSheet").attr("target","_blank")
+          $("#moreBoxDataSheet").attr("onclick","temp()")
+        }
+        else {
+          $("#moreBoxDataSheet").attr("href","javascript:;")
+          $("#moreBoxDataSheet").attr("target","")
+          $("#moreBoxDataSheet").attr("onclick","alert('請來信至service@pynmax.com.tw或聯繫業務以獲得更多資訊，謝謝!')")
+        }
+        var fileA = JSON.parse($(obj).attr("data-json"));       
+        var htmlText ='';
+        if(fileA.length>0){
+          htmlText += '<div class="guide_scroll">';
+          fileA.forEach(function(fileC){
+            htmlText += '<div class="guide_llst">';
+            htmlText += '<div class="list_title">'+fileC.title+'</div>';
+            htmlText += '<ul class="list_item">';
+              fileC.File.forEach(function(file){
+                htmlText += '<li><div class="item_name">'+file.title+'</div><a class="icon-download" target="_blank" href="https://www.pynmax.com.tw/tw/Product/dataDownload/'+file.id+'"></a></li>'
+              });
+            htmlText += '</ul>';
+            htmlText += '</div>';              
+          });
+          htmlText += '</div>'; 
+        }
+        $(".guide_block").empty()
+        $(".guide_block").append(htmlText);
+        $('.guide_scroll').scrollbar();
+        if(htmlText.length>0) $(".guide_block").show();
+        else $(".guide_block").hide();
+      }
+    </script>
+  	  	
+	  		</body>
+
+</html>

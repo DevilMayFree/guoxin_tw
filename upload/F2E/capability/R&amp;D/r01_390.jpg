@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+ <html lang="en">
+
+	
+	<head itemscope="itemscope" itemtype="http://schema.org/WebSite">
+		
+				
+		<meta http-equiv="content-language" content="zh-tw">
+		
+	    
+	    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+		
+		
+		<title>PYNMAX Technology Co., LTD</title>
+		<meta name="description" content="Pynmax Technology Co., LTD is a reinvestment company of Panjit Group and was established in March 2000. 
+Pynmax Technology Co., LTD has a strong R&amp;D technical team which comtrubutes technical capabilities and advanced equipment.
+The main products are Epitaxy, Schottky, TVS and Zener wafers along with high product yields .">
+		<meta property="og:title" content="PYNMAX Technology Co., LTD">
+		<meta property="og:description" content="Pynmax Technology Co., LTD is a reinvestment company of Panjit Group and was established in March 2000. 
+Pynmax Technology Co., LTD has a strong R&amp;D technical team which comtrubutes technical capabilities and advanced equipment.
+The main products are Epitaxy, Schottky, TVS and Zener wafers along with high product yields .">
+		<meta property="og:image" content="https://www.pynmax.com.tw ">
+		<meta property="og:image:width" content="520">
+    	<meta property="og:image:height" content="520">
+    	<meta name="twitter:title" content="PYNMAX Technology Co., LTD">
+    	<meta name="twitter:description" content="Pynmax Technology Co., LTD is a reinvestment company of Panjit Group and was established in March 2000. 
+Pynmax Technology Co., LTD has a strong R&amp;D technical team which comtrubutes technical capabilities and advanced equipment.
+The main products are Epitaxy, Schottky, TVS and Zener wafers along with high product yields .">
+    	<meta name="twitter:image" content="https://www.pynmax.com.tw ">
+
+
+		
+		
+		<!-- Google Tag Manager -->
+		
+	    <link rel="icon" href="/assets/img/pynmax.ico"/>
+	    <link rel="stylesheet" href="/assets/js/vendor/swiper-4.4.6/dist/css/swiper.min.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/js/vendor/slick-1.8.1/slick/slick-theme.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/js/vendor/slick-1.8.1/slick/slick.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/fonts/Icon/style.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/css/css/jquery.scrollbar.css?v=20240614"/>
+	    <link rel="stylesheet" href="/assets/css/style.css?v=20240614"/>
+  
+		
+	  		  	
+	  		  	
+	</head>
+
+	<body class="home" id="home">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id="
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<input class="base-url-p" type="hidden" value="https://www.pynmax.com.tw">
+		<input class="base-url" type="hidden" value="https://www.pynmax.com.tw/en">
+		<input type="hidden" id="_token" value="PJphzhQVJ5pLp0V1LgI68ljgdY6M1gZwWyRaOB9r">
+		
+    <header class="hero">
+      <div class="navbar">
+  <div class="navbar-container">
+    <div class="logo">
+      <a class="logo-href" href="https://www.pynmax.com.tw/en">
+        <img src="/upload/2021_06_0914/202106091616502y5kvguQe1.png" alt=""/>
+        <img src="/upload/2021_06_0914/202106091611260qd6wmYM11.png" alt=""/>
+      </a>
+    </div>
+
+  <div class="navbar-link">
+    <div class="navbar-search">
+      <div class="navbar-search__title searchType" data-type="search">Search</div>
+      <ul class="search-select">
+        <li class="search-select-item" onclick="changeSearchType(this)" data-type="crossreference">Cross reference</li>
+      </ul>
+      <input class="navbar-search__input" type="text" placeholder="Search or Cross-references" id="searchKeyword"/>
+      <a class="icon-search" href="javascript:void(0);" onclick="goSearch()"></a>
+    </div>
+    
+
+      <nav class="navbar-nav">
+        <ul class="navbar-items">
+                                  
+              <li class="navbar-item">
+                <a class="navbar-item__href"  href="https://www.pynmax.com.tw/en/Product" >Product</a>
+                                  <ul class="navbar-firstitems">
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Product#Schottky" >Schottky Diode</a>                      
+                          
+                          <span class="icon-arrowIn"></span>                    
+                          <ul class="navbar-seconditems">
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Schottky/Schottky">Schottky</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Schottky/Power_Schottky">Power Schottky</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Schottky/Super_Schottky">Super Schottky</a></li>
+                                                    
+                          </ul>
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Product#Protection Devices" >Protection Devices</a>                      
+                          
+                          <span class="icon-arrowIn"></span>                    
+                          <ul class="navbar-seconditems">
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Protection_Devices/Zener_Diodes">Zener Diodes</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Protection_Devices/Low_Current_Zener_Diodes">Low Current Zener Diodes</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Protection_Devices/ESD_Protection">ESD Protection</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Protection_Devices/Transient_Voltage_Suppressors">Transient Voltage Suppressors</a></li>
+                                                    
+                          </ul>
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Product#Diode_Rectifiers" >Diode Rectifiers</a>                      
+                          
+                          <span class="icon-arrowIn"></span>                    
+                          <ul class="navbar-seconditems">
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Diode_Rectifiers/General_Purpose_Rectifiers">General Purpose Rectifiers</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Diode_Rectifiers/Fast_Recovery_Rectifiers">Fast Recovery Rectifiers</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Diode_Rectifiers/Ultra_Fast_Recovery_Rectifiers">Ultra Fast Recovery Rectifiers</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Diode_Rectifiers/Super_Fast_Recovery_Rectifiers">Super Fast Recovery Rectifiers</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Product/Diode_Rectifiers/FRED">FRED</a></li>
+                                                    
+                          </ul>
+                                              </li>
+                                    
+                  </ul>
+                              </li>
+                                              
+              <li class="navbar-item">
+                <a class="navbar-item__href"  href="https://www.pynmax.com.tw/en/Application" >Applications</a>
+                                  <ul class="navbar-firstitems">
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Application/Automotive" >Automotive</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Application/Industrial" >Industrial</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Application/power_supply" >Power Supply</a>                      
+                                              </li>
+                                    
+                  </ul>
+                              </li>
+                                              
+              <li class="navbar-item">
+                <a class="navbar-item__href"  href="https://www.pynmax.com.tw/en/News" >News Center</a>
+                                  <ul class="navbar-firstitems">
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/News" >Lastest News</a>                      
+                                              </li>
+                                    
+                  </ul>
+                              </li>
+                                                                                                </ul>
+        
+        <a class="navbar-item__href icon-menu lb-open" href="javascript:;" data-open="menu-lb"><p>menu</p></a>
+       
+        <ul class="navbar-items">
+                                                                                                    
+              <li class="navbar-item">
+                <a class="navbar-item__href"  href="https://www.pynmax.com.tw/en/About" >About PYNMAX</a>
+                                  <ul class="navbar-firstitems">
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/About/Pynmax" >Company Profile</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/About/Milestone" >Milestone</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/About/Manufacturing" >Manufacturing Sites</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/About/Group" >PANJIT Group</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/About/BusinessConcept" >Core Value &amp; Business Concept</a>                      
+                                              </li>
+                                    
+                  </ul>
+                              </li>
+                                              
+              <li class="navbar-item">
+                <a class="navbar-item__href"  href="https://www.pynmax.com.tw/en/Capability" >Capability</a>
+                                  <ul class="navbar-firstitems">
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Capability/RD" >Research &amp; Development</a>                      
+                          
+                          <span class="icon-arrowIn"></span>                    
+                          <ul class="navbar-seconditems">
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Capability/RD#r01">R&amp;D Sites</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Capability/RD#r02">Package Technology</a></li>
+                                                    
+                          </ul>
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Capability/manufacturing" >Production &amp; Manufacturing</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Capability/quality" >Quality &amp; Certifications</a>                      
+                          
+                          <span class="icon-arrowIn"></span>                    
+                          <ul class="navbar-seconditems">
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Capability/quality#articleTop0">Quality, Hazardous Substance Management Policy</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Capability/quality#articleTop1">Quality System</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Capability/quality#Q03">Quality Milestone</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Capability/quality#Q04">Quality Certification</a></li>
+                                                        <li class="navbar-seconditem"><a href="https://www.pynmax.com.tw/en/Capability/quality#articleBot">Green Product Compliance Declaration</a></li>
+                                                    
+                          </ul>
+                                              </li>
+                                    
+                  </ul>
+                              </li>
+                                              
+              <li class="navbar-item">
+                <a class="navbar-item__href"  href="https://www.pynmax.com.tw/en/Contact" >Contact Us</a>
+                                  <ul class="navbar-firstitems">
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Contact" >Contact Inquiry</a>                      
+                                              </li>
+                                          <li class="navbar-firstitem"><a  href="https://www.pynmax.com.tw/en/Contact" >Sales/Business Service Information</a>                      
+                                              </li>
+                                    
+                  </ul>
+                              </li>
+                              </ul>
+      </nav>
+    </div>
+
+    <div class="navbar-aside">
+      <div class="navbar-icon">
+        <a class="navbar-aside__href icon-addFile" href="https://www.pynmax.com.tw/en/Product/inquiry">
+                      <span id="InquiryCount"></span>
+                    <div class="explain">Inquiry List</div>
+        </a>
+
+                    
+        <div class="navbar-aside__href language-block">
+          <div class="now_lan">
+            <span class="icon-global"></span>
+                          <p>English</p>
+                        <span class="icon-arrowIn"></span>
+          </div>
+          <ul class="lan_select">
+            <li><a  class="active"  href="javascript:;" data-lan="en">English</a></li>
+            <li><a  href="javascript:;" data-lan="tw">繁中</a></li>
+            <li><a  href="javascript:;" data-lan="cn">簡中</a></li>
+          </ul>
+        </div>
+        <a class="navbar-aside__href icon-search" href="https://www.pynmax.com.tw/en/Search/search/_"></a>
+      </div>
+      <div class="navbar-search">
+        <div class="navbar-search__title searchType" data-type="search">Search</div>
+        <ul class="search-select">
+          <li class="search-select-item" onclick="changeSearchType(this)" data-type="crossreference">Cross reference</li>
+        </ul>
+        <input class="navbar-search__input" type="text" placeholder="Search or Cross-references" id="searchKeyword"/>
+        <a class="icon-search" href="javascript:void(0);" onclick="goSearch()"></a>
+      </div>
+    </div>
+   
+  </div>
+</div>
+
+<script>
+ 
+  function goSearch(){
+    var search = $(".base-url").val()
+    var tempVal = $("#searchKeyword").val()
+    if(!tempVal) tempVal = "_";
+    tempVal = tempVal.replace("/","*");
+    search = search + "/Search/" + $(".searchType").attr("data-type") + "/" +tempVal;
+    document.location.href=search;
+  }
+
+  function changeSearchType(obj){
+    var navbarSearch = $(".navbar-search");    
+    var tempType = navbarSearch.find(".searchType").eq(0).attr("data-type");    
+    var tempTxt = navbarSearch.find(".searchType").eq(0).text();
+    navbarSearch.find(".searchType").attr("data-type",$(obj).attr("data-type"))
+    navbarSearch.find(".searchType").text($(obj).text())
+
+    $(obj).attr("data-type",tempType);
+    $(obj).text(tempTxt);
+  }
+</script>
+
+<div class="lb menu-lb" style="background-image: url('/upload/2020_02_101/2020021015574687jpvvfO98.jpg')" id="headerOpenImg">
+  <div class="menu-lb-main">
+    <div class="menu-lb-mask"></div>
+    <div class="menu-lb-container"><a class="icon icon-menu-close js-close" href="javascript:;"><p>close</p></a>
+      <ul class="menu">
+                  <li class="menu-item openMenu" data-img=""><a class="menu-item__href" href="https://www.pynmax.com.tw/en/Product">Product</a></li>
+                  <li class="menu-item openMenu" data-img="/upload/2020_02_101/20200210155741pplyh75zV2.jpg"><a class="menu-item__href" href="https://www.pynmax.com.tw/en/Application">Applications</a></li>
+                  <li class="menu-item openMenu" data-img="/upload/2020_02_101/20200210155742i09anehRO3.jpg"><a class="menu-item__href" href="https://www.pynmax.com.tw/en/Capability">Capability</a></li>
+                  <li class="menu-item openMenu" data-img="/upload/2020_02_101/20200210155740i9713u8n11.jpg"><a class="menu-item__href" href="https://www.pynmax.com.tw/en/About">About PYNMAX</a></li>
+                  <li class="menu-item openMenu" data-img="/upload/2020_02_101/20200210155747xa673bdpB9.jpg"><a class="menu-item__href" href="https://www.pynmax.com.tw/en/News">News Center</a></li>
+                  <li class="menu-item openMenu" data-img="/upload/2020_02_101/20200210155745knevsoJdB4.jpg"><a class="menu-item__href" href="https://www.pynmax.com.tw/en/Contact">Contact Us</a></li>
+                
+      </ul>
+      <ul class="menuLink">
+        
+        <li class="menuLink-item"><a class="menuLink-item__href" href="https://www.pynmax.com.tw/en/Privacy">Privacy Policy</a></li>
+      </ul>
+      <ul class="menuTag">
+        <li class="menuTag-item">
+          <a class="menuTag-item__href" href="https://www.pynmax.com.tw/en/Product/inquiry">
+            <span>Inquiry list</span><i class="icon icon-addFile"></i>
+          </a>
+        </li>
+        <li class="menuTag-item language-block">
+          <a class="menuTag-item__href" href="javascript:;"><span>Language</span><i class="icon icon-global"></i></a>
+          <ul class="language">
+                        
+                        <li class="language-item"><a class="language-item__href language-item__href--active" data-lan="en" href="javascript:;">EN</a></li>
+            
+                        
+            <li class="language-item"><a class="language-item__href" data-lan="tw" href="javascript:;">繁中</a></li>
+                        
+                        
+            <li class="language-item"><a class="language-item__href" data-lan="cn" href="javascript:;">简中</a></li>
+                      </ul>
+        </li>
+        <li class="menuTag-item">
+          <a class="menuTag-item__href" href="https://www.pynmax.com.tw/en/Search/search/_">
+            <span>Search for</span><i class="icon icon-search"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+      <div class="hero-banner swiper-container">
+        <ul class="swiper-wrapper">
+                      <li class="swiper-slide hero-item  hero-item--white " style="background-image: url('/upload/2020_01_171/20200117172105kkwp9mNdC3.jpg')" data-large="/upload/2020_01_171/20200117172105kkwp9mNdC3.jpg" data-small="/upload/2020_01_171/20200117173622z8tlbwd733.jpg">
+              <div class="hero-inner  hero-inner--left ">
+                <h2 class="hero-inner__title">High Efficiency Technology H Series Schottky</h2>
+                <p class="hero-inner__subtitle">For Improving High Temperature Performance</p>
+                <p class="hero-inner__p">• Ultra Low reverse current at high temperature<br />
+• High current capability</p>
+                <div class="goPage">
+                                    <a class="goPage__href" href="https://www.pynmax.com.tw/en/Product/Schottky/Power_Schottky#Description" ></a>
+                                    <p class="goPage__title">Find out more</p>
+                  <span class="goPage__arrow">
+                    <i class="icon icon-arrowIn"></i>
+                  </span>
+                </div>
+              </div>
+            </li>
+                      <li class="swiper-slide hero-item " style="background-image: url('/upload/2020_06_231/202006231450062aw0m3wk11.jpg')" data-large="/upload/2020_06_231/202006231450062aw0m3wk11.jpg" data-small="/upload/2020_06_231/20200623143832w5xt0o8if1.jpg">
+              <div class="hero-inner  hero-inner--left ">
+                <h2 class="hero-inner__title">Automotive Compliant E-type TVS Series</h2>
+                <p class="hero-inner__subtitle">Low Profile Package and High Reliability</p>
+                <p class="hero-inner__p">• Ultra low reverse current<br />
+• Excellent clamping capability<br />
+• EPI (Epitaxial) planar technology<br />
+• AEC-Q101 qualified</p>
+                <div class="goPage">
+                                    <a class="goPage__href" href="https://www.panjit.com.tw/en/News/e-type_TVS"  target="_blank" ></a>
+                                    <p class="goPage__title">Find out more</p>
+                  <span class="goPage__arrow">
+                    <i class="icon icon-arrowIn"></i>
+                  </span>
+                </div>
+              </div>
+            </li>
+                      <li class="swiper-slide hero-item  hero-item--white " style="background-image: url('/upload/2020_01_171/202001171721050zdxer2Iw2.jpg')" data-large="/upload/2020_01_171/202001171721050zdxer2Iw2.jpg" data-small="/upload/2020_01_171/20200117172104q2oao7vDo1.jpg">
+              <div class="hero-inner  hero-inner--left ">
+                <h2 class="hero-inner__title">Automotive Grade Products</h2>
+                <p class="hero-inner__subtitle">Automotive Grade products IATF 16949:2016 Qualified</p>
+                <p class="hero-inner__p">PYNMAX's smarter and more prospective automotive grade products, making you accelerating your circuit design.</p>
+                <div class="goPage">
+                                    <a class="goPage__href" href="https://www.pynmax.com.tw/en/Application/Automotive"  target="_blank" ></a>
+                                    <p class="goPage__title">Discover more</p>
+                  <span class="goPage__arrow">
+                    <i class="icon icon-arrowIn"></i>
+                  </span>
+                </div>
+              </div>
+            </li>
+                   
+        </ul>
+        <div class="hero-countrol">
+          <div class="swiper-pagination"></div>
+          <div class="goBlock">
+            <a class="icon-arrowGoDown" href="javascript:;">
+              <span>Products</span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-menu">
+        <div class="hero-menu-block">
+          
+          <div class="hero-menu-right heroMessage">
+            <img class="heroMessage__img" src="/upload/2019_06_211/20190621104136we60vjrdL1.png" alt=""/>
+            <p class="heroMessage__p">Automotive qualified products (AEC-Q101)</p>
+            <hr class="heroMessage__gutter"/>
+
+                        <a class="heroMessage__href" href="javascript:;">Discover More</a>
+                      </div>
+
+          <div class="hero-menu-left">
+            <p class="appMenu__title">Application</p>
+            <ul class="appMenu">
+                                               
+                <li class="appMenu-item"><a href="https://www.pynmax.com.tw/en/Application/Automotive"  target="_blank" >
+                    <div class="appMenu-item__img"><img src="/upload/2019_06_211/20190621094722bv3enrGeI2.png" alt=""/></div>
+                    <span class="appMenu-item__p">Automotive</span></a></li> 
+                                               
+                <li class="appMenu-item"><a href="https://www.pynmax.com.tw/en/Application/Industrial"  target="_blank" >
+                    <div class="appMenu-item__img"><img src="/upload/2019_06_211/20190621094721p3o6elxnF1.png" alt=""/></div>
+                    <span class="appMenu-item__p">Industrial</span></a></li> 
+                                               
+                <li class="appMenu-item"><a href="https://www.pynmax.com.tw/en/Application/power_supply"  target="_blank" >
+                    <div class="appMenu-item__img"><img src="/upload/2020_06_301/20200630114823zwenfzTR71.png" alt=""/></div>
+                    <span class="appMenu-item__p">Power Supply</span></a></li> 
+                            
+            </ul>
+            <div class="appMenu-more">
+              <div class="appMenu-item__img js-appMenu--open"><span class="moreIcon"><span></span><span></span><span></span></span></div><span class="appMenu-item__p js-appMenu--open">More</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </header>
+      
+
+    <main>
+      <section class="breadcrumb sr-only" style="position: fixed;bottom: 100%;opacity: 0">
+        <ul itemscope itemtype="https://schema.org/BreadcrumbList">
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemtype="https://schema.org/Thing" itemprop="item" href="https://www.pynmax.com.tw/en" itemprop="url"></a>
+            <meta itemprop="position" content="1" />
+            <span class="bgColor" itemprop="name">璟茂 Pynmax | Home</span>
+          </li>          
+        </ul>
+      </section>
+      <!-- 產品區塊-->
+            <article class="productBlock-full">
+        <div class="productBlock-container">
+          <div class="article text-center">
+            <h2 class="article__title">Products</h2>
+            <p class="article__p">PYNMAX can design recommendations for different product applications based on product features and specifications</p>
+          </div>
+          <section class="proCard">
+                                          <ul class="proCard-block">
+                  <li class="proCard-item proCard-item--big">                    
+                    <a class="proCard__href" href="https://www.pynmax.com.tw/en/Product#Schottky" ></a>
+                    <div class="proCard__img">
+                      <img src="/upload/2019_10_251/20191025113726yvgn0tk7Y3.png" alt=""/>
+                    </div>
+                    <div class="card-inner">
+                      <span class="card__gutter"></span>
+                      <h3 class="card__title">Schottky</h3>
+                      <p class="card__p">HV of Ultra Low IR Schottky MBR H Type Product</p>
+                    </div>
+                  </li>
+
+                  
+                                  </ul>
+
+                <ul class="proCard-block">
+                                    <li class="proCard-item proCard-item--small">                    
+                    <a class="proCard__href" href="https://www.pynmax.com.tw/en/Product#Protection Devices" ></a>
+                    <div class="proCard__img">
+                      <img src="/upload/2019_10_291/20191029114933mvs1mkF8w2.png" alt=""/>
+                    </div>
+                    <div class="card-inner">
+                      <span class="card__gutter"></span>
+                      <h3 class="card__title">Protection Devices</h3>
+                      <p class="card__p">Zener/ESD Protection/Transient Voltage Suppressors</p>
+                    </div>
+                  </li>
+                                                      <li class="proCard-item proCard-item--small">                    
+                    <a class="proCard__href" href="https://www.pynmax.com.tw/en/Product#Diode Rectifiers" ></a>
+                    <div class="proCard__img">
+                      <img src="/upload/2019_10_251/201910251137273h0k5h0qn6.png" alt=""/>
+                    </div>
+                    <div class="card-inner">
+                      <span class="card__gutter"></span>
+                      <h3 class="card__title">Diode Rectifiers</h3>
+                      <p class="card__p"></p>
+                    </div>
+                  </li>
+                                                    </ul>
+                                                                                        </section>
+
+          <div class="text-center">
+            <div class="goPage">
+              <a class="goPage__href" href="https://www.pynmax.com.tw/en/Product"></a>
+              <p class="goPage__title">View all products</p>
+              <span class="goPage__arrow"><i class="icon icon-arrowIn"></i></span>
+            </div>
+          </div>
+        </div>
+      </article>
+      
+
+      <!--應用區塊-->
+            <article class="appBlock-full">
+        <div class="appBlock-container">
+          <div class="article">
+            <h2 class="article__title">Applications</h2>
+            <p class="article__p">PANJIT has provided a broad product portfolio to meet the needs of customers in a variety of applications.</p>
+          </div>
+          <section class="appCard">
+                                          <ul class="appCard-block appCard-block--normal">
+                  <li class="appCard-item" style="background-image: url('/upload/2020_01_171/20200117183043ptjucndNe1.png')">
+                    <a class="appCard__href" href="https://www.pynmax.com.tw/en/Application/Automotive" ></a>
+                    <img class="card__img" src="/upload/2020_01_171/20200117183043ptjucndNe1.png" alt=""/>
+                    <a class="card-inner card-inner--white" href="https://www.pynmax.com.tw/en/Application/Automotive" >
+                      <span class="card__gutter"></span>
+                      <h3 class="card__title">Automotive</h3>
+                      <p class="card__p">PANJIT's innovative technologies and systems for infotainment, powertrain, lighting, motor and body electronics.</p>
+                      <div class="moreLi-href text-white">learn more</div>
+                    </a>
+                  </li>
+                                  </ul>
+                <ul class="appCard-block appCard-block--normal">
+                                    <li class="appCard-item" style="background-image: url('/upload/2019_06_211/20190621115612bmknofRVh2.jpg')">
+                    <a class="appCard__href" href="https://www.pynmax.com.tw/en/Application/Industrial" ></a>
+                    <img class="card__img" src="/upload/2019_06_211/20190621115612bmknofRVh2.jpg" alt=""/>
+                    <a class="card-inner card-inner--white" href="https://www.pynmax.com.tw/en/Application/Industrial" >
+                      <span class="card__gutter"></span>
+                      <h3 class="card__title">Industrial</h3>
+                      <p class="card__p">Types of Semiconductors and Discrete components manufactured by PANJIT play key roles in industrial market.</p>
+                      <div class="moreLi-href text-white" >learn more</div>
+                    </a>
+                  </li>
+                                                    </ul>
+                                                              </section>
+          <div class="goPage">
+            <a class="goPage__href" href="https://www.pynmax.com.tw/en/Application"></a>
+            <p class="goPage__title">more applications</p>
+            <span class="goPage__arrow"><i class="icon icon-arrowIn"></i></span>
+          </div>
+        </div>
+      </article>
+      
+
+      <!--新聞區塊-->
+      <article class="newsBlock-full">
+        <div class="article text-center">
+          <h2 class="article__title">Lastest News</h2>
+          <ul class="link">
+                                          <li class="link-item link-item--active" data-cate="1" onclick="changeNewsCate(this)">
+                  <a class="link-item__href" href="javascript:;" >Lastest News</a>
+                </li>
+                           
+          </ul>
+        </div>
+                            <section class="media newsBlock-container swiper-container" data-cate="1">
+                        
+            <ul class="swiper-wrapper media-wrapper">
+                          </ul>
+            <div class="swiper-button right icon icon-arrowIn"></div>
+            <div class="swiper-button left icon icon-arrowIn"></div>
+            <div class="newsBlock-countrol">
+              <div class="swiper-pagination"></div>
+              <div class="moreLi"><a class="moreLi-href" href="https://www.pynmax.com.tw/en/News">view all news</a></div>
+            </div>
+            
+          </section>
+        
+      </article>
+
+
+      <!-- 能力區塊-->
+      
+
+      <!-- 關於和CSR區塊-->
+      
+
+      <!-- 投資人區塊-->
+          </main>
+    
+
+    <footer class="footer">
+      <article class="cookies" style="display: none;">
+    <div class="cookies-container">
+      <div class="cookies_word">
+        <div class="cookies_title">Privacy &amp; Cookies Policy</div>
+        <div class="cookies_p">We use cookies to offer you a better browsing experience. Read about how we use cookies by clicking<a class="line" href="https://www.pynmax.com.tw/en/Privacy">Privacy &amp; Cookies Policy</a>. By continuing to use this website or close this notice, you consent to the use of cookies.</div>
+      </div>
+      <a class="agree cookies_btn" href="javascript:void(0);">ACCEPT</a>
+      <a class="agree cookies-close" href="javascript:void(0);"><span></span>
+      </a>
+    </div>
+  </article>
+
+
+<article class="footer-container">
+  <section class="footer-block"><a class="footer-logo" href="https://www.pynmax.com.tw/en"><img src="/assets/img/footer-logo.png" alt=""/></a>
+    <div class="footer-mark">
+      <ul class="footer-mark-block hover">
+                              <a href="https://www.dunsregistered.com/index.aspx" target="_blank">
+                    <li class="footer-mark-img">
+            <img src="/upload/2019_07_091/20190709161831j9zxmchp31.png" alt=""/>
+            <img src="/upload/2019_07_091/20190709161831j9zxmchp31.png" alt=""/>
+          </li>
+          </a>
+                              <a href="https://www.twca.com.tw/portal/about/enterprise.html" target="_blank">
+                    <li class="footer-mark-img">
+            <img src="/upload/2019_07_091/20190709161831fm65whvKv2.png" alt=""/>
+            <img src="/upload/2019_07_091/20190709161831fm65whvKv2.png" alt=""/>
+          </li>
+          </a>
+              </ul>
+      <ul class="footer-mark-block hover">
+                              <a href="https://www.panjit.com.tw/en" target="_blank">
+                      <li class="footer-mark-img">
+              <img src="/upload/2019_07_091/20190709161832fnquswWti5.png" alt=""/>
+              <img src="/upload/2019_11_181/201911181606248skcw5dM83.png" alt=""/>
+            </li>
+            </a>
+                              <a href="http://www.pynmax.com.tw/index.php?lang=cht&amp;option=intro" target="_blank">
+                      <li class="footer-mark-img">
+              <img src="/upload/2019_07_091/20190709161831x50qhdI843.png" alt=""/>
+              <img src="/upload/2019_11_181/20191118160625urex5lpNl4.png" alt=""/>
+            </li>
+            </a>
+                              <a href="http://www.mildex.com.tw/" target="_blank">
+                      <li class="footer-mark-img">
+              <img src="/upload/2019_07_091/20190709161831p6t7cw9kp4.png" alt=""/>
+              <img src="/upload/2019_11_181/20191118160624rh0w4pbbU2.png" alt=""/>
+            </li>
+            </a>
+              </ul>
+    </div>
+    <p class="footer__copyright">Copyright©PANJIT.All rights reserved.</a></p>
+  </section>
+  <section class="footer-block">
+    <p class="footer__title">Contact Us Now</p>
+    <address class="address">
+      <p class="address__p">NO. 17-2, Yong Gong  1st RD, Yong’An District, Kaohsiung City, Taiwan, 82841 , R.O.C.</p>
+      <div class="address-message">
+        <dl class="address-block">
+          <dt class="address__title">TEL</dt>
+          <dd class="address__info">886-7-624-3919</dd>
+        </dl>
+        <dl class="address-block">
+          <dt class="address__title">FAX</dt>
+          <dd class="address__info">886-7-621-4719</dd>
+        </dl>
+        <a href="https://www.pynmax.com.tw/en/Contact">
+        <dl class="address-block">
+          <dt class="address__title">MAIL</dt>
+          <dd class="address__info">service@pynmax.com.tw</dd>
+        </dl>
+        </a>
+      </div>
+    </address>
+  </section>
+  
+</article>
+<button class="footer-toTop"><i class="icon icon-arrowIn"></i></button>
+<button class="footer-toTop footer-toTop--fix"><i class="icon icon-arrowIn"></i></button>    </footer>
+  
+		
+	    <script src="/assets/js/vendor/jquery-3.3.1.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/jquery.easings.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/swiper-4.4.6/dist/js/swiper.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/jquery-scrollbar/jquery.scrollbar.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/slick-1.8.1/slick/slick.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/jquery.nicescroll-master/jquery.nicescroll.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/picturefill.min.js?v=20240614"></script>
+	    
+	    
+	    <script src="/assets/js/vendor/jquery-ui-1.12.1/jquery-ui.min.js?v=20240614"></script>
+	    <script src="/assets/js/vendor/blazy.min.js?v=20240614"></script>
+	    
+	    <script src="/assets/js/main-dist.js?v=20240614"></script>
+		
+		<script>
+			$("li.share-item").on('click',function(event){
+				if($(this).find("i").hasClass("icon-facebook")){
+					var url = "https://www.facebook.com/sharer/sharer.php?u=" + location.href
+					window.open(url)
+				}
+				if($(this).find("i").hasClass("icon-line")){
+					var url = "https://social-plugins.line.me/lineit/share?url=" + location.href
+					window.open(url)
+				}
+				if($(this).find("i").hasClass("icon-twitter")){
+					var url = "http://twitter.com/share?url=" + location.href
+					window.open(url)
+				}
+				if($(this).find("i").hasClass("icon-linkedin")){					
+					var url = "http://www.linkedin.com/shareArticle?mini=true&url=" + location.href 
+					window.open(url)
+				}				
+
+			});
+
+			$("#searchKeyword").focus(function(){
+			    $(this).on('keydown', function (event){
+			        if (event.keyCode == 13){
+			           goSearch()
+			        }
+			      });
+			})
+			$("#searchInput").focus(function(){
+			    $(this).on('keydown', function (event){
+			        if (event.keyCode == 13){
+			           goSearch()
+			        }
+			      });
+			})
+			
+			$("li.menu-item.openMenu").hover(function(e){
+				var imgRoute = $(this).attr("data-img")
+				if(imgRoute){
+					$("#headerOpenImg").css("background-image","url('"+imgRoute+"')");
+				}
+				
+			})
+
+			$(".lan_select li").on("click",'a',function(){
+				var baseUrl = $(".base-url-p").val();
+				var baseUrl2 = $(".base-url").val();
+				var toLan = $(this).attr("data-lan");
+				baseUrl = baseUrl + "/" + toLan;
+				var nowUrl = location.href;
+				if( baseUrl != baseUrl2){
+					var toUrl = nowUrl.replace(baseUrl2, baseUrl);
+					document.location.href = toUrl;
+				}	
+			})
+			$("li.language-item ").on("click",'a',function(){
+				var baseUrl = $(".base-url-p").val();
+				var baseUrl2 = $(".base-url").val();
+				var toLan = $(this).attr("data-lan");
+				baseUrl = baseUrl + "/" + toLan;
+				var nowUrl = location.href;
+				if( baseUrl != baseUrl2){
+					var toUrl = nowUrl.replace(baseUrl2, baseUrl);
+					document.location.href = toUrl;
+				}	
+			})
+			
+
+		</script>
+
+	    	   
+	    <script type="application/ld+json">
+	      {
+	          "@context": "http://schema.org",
+	          "@type": "LocalBusiness",
+	          "url": "https://www.pynmax.com.tw",	         
+	          "name": "璟茂股份有限公司",
+	          "description": "璟茂從晶圓設計、製造，結合強茂集團的垂直整合企業模式，封裝測試、電池管理系統、觸控面板，提供多元產品與模組，對應各項市場與產業所需。",	          
+	          "email": "service@pynmax.com.tw",
+	          "image": "/upload/2021_06_0914/202106091616502y5kvguQe1.png",
+	          "priceRange":"-",
+	          "address": {
+	              "@type": "PostalAddress",
+	              "addressCountry": "台灣 Taiwan",
+	              "addressLocality": "高雄市 Kaohsiung City",
+	              "addressRegion": "永安區  Yong An District.",
+	              "postalCode": "82841",
+	              "streetAddress": "永工一路17-2號  No.17-2, Yong Gong 1st RD."
+	          },
+	          "telephone": "886-7-624-3919",
+	          "faxNumber": "886-7-621-4719",
+	          "hasMap": "https://www.google.com/maps/place/%E5%BC%B7%E8%8C%82%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/@22.8157946,120.2520615,17z/data=!3m1!4b1!4m5!3m4!1s0x346e0c0bb2f7e19b:0x3f30b6f70b6b3571!8m2!3d22.8157897!4d120.2542502",	          
+	          "geo": {
+	              "@type": "GeoCoordinates",
+	              "latitude": "22.81602",
+	              "longitude": "120.25437"
+	          }
+	      }
+	    </script>
+
+	    <script>
+		$(".cookies_btn").on('click',function(){
+			localStorage.setItem("cookiesAccept", 1);
+		});
+		$(document).ready(function() {
+			var cookiesAccept = localStorage.getItem("cookiesAccept");
+			if(cookiesAccept!=1) $("article.cookies").show();
+		});
+
+		lightBoxOpen()
+		lightBoxClose()
+
+		var SubFlow = 0;
+
+		$(".sub_btn.event").on('click',function(e){		
+			if(SubFlow==1 || !$(".agree").hasClass("click")) return "";
+			SubFlow = 1;
+			var formData = new FormData();
+	        formData.append('newsletterSubName', $("#newsletterSubName").val());
+	        formData.append('newsletterSubMail', $("#newsletterSubMail").val());
+			$.ajax({ 
+				headers: {
+					'X-CSRF-TOKEN': $('#_token').val()
+				},
+				url: "https://www.pynmax.com.tw/en/SubscriptionNewsLetter",
+				type: 'post',
+				data:formData,
+				processData: false,
+				contentType: false,       
+				
+			})
+			.done(function(res){
+				if(res._type=="fail"){
+					alert(res._msg);
+					SubFlow = 0;
+					return "";
+				}
+								
+				$('.sub_btn.js-openlb').click();
+				$('.sub_btn.event').removeClass("click");
+				$(".agree").removeClass("click");
+				
+				$("#newsletterSubName").val("");
+				$("#newsletterSubMail").val("");
+				SubFlow = 0;
+			});   
+		});
+		</script>
+
+		<script>
+			var nowHost = window.location.host;
+			var preview = /.wdd.*/;
+            if (preview.test(nowHost)) {
+                $('body').append("<div style='position:fixed;bottom:0;left:0;background-color:#ff00b4;color:#fff;font-size:12px;z-index:999;padding:0 30px;line-height:2'>這裡是璟茂的測試小天地</div>");
+            }
+		</script>
+		
+	   
+		
+	  	    <script>
+      function changeNewsCate(obj){
+        var cate = $(obj).attr("data-cate");
+        $(obj).addClass("link-item--active").siblings().removeClass("link-item--active")
+        $("section.media.newsBlock-container.swiper-container").hide()
+        $("section.media.newsBlock-container.swiper-container[data-cate='"+cate+"']").show()
+        swiper.home()
+      }
+    </script>
+  	  	
+	  		</body>
+
+</html>
