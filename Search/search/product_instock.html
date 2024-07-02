@@ -63,7 +63,7 @@
               <li class="search-bar-dropDown__item" onclick="changeSearchType(this)" data-type="crossreference">Cross reference</li>              
             </ul>
           </div>
-          <div class="search-back"><a class="search__back" href="https://www.pynmax.com.tw/tw">返回</a></div>
+          <div class="search-back"><a class="search__back" >返回</a></div>
         </div>
       </div>
       
@@ -393,7 +393,7 @@
                   htmlText += '<div class="list_title">'+fileC.title+'</div>';
                   htmlText += '<ul class="list_item">';
                     fileC.File.forEach(function(file){
-                      htmlText += '<li><div class="item_name">'+file.title+'</div><a class="icon-download" href="https://www.pynmax.com.tw/tw/Product/dataDownload/'+file.id+'"></a></li>'
+                      htmlText += '<li><div class="item_name">'+file.title+'</div><a class="icon-download" href="/Product/dataDownload/'+file.id+'"></a></li>'
                     });
                   htmlText += '</ul>';
                   htmlText += '</div>';              
@@ -568,7 +568,7 @@
             htmlText += '<div class="list_title">'+fileC.title+'</div>';
             htmlText += '<ul class="list_item">';
               fileC.File.forEach(function(file){
-                htmlText += '<li><div class="item_name">'+file.title+'</div><a class="icon-download" target="_blank" href="https://www.pynmax.com.tw/tw/Product/dataDownload/'+file.id+'"></a></li>'
+                htmlText += '<li><div class="item_name">'+file.title+'</div><a class="icon-download" target="_blank" href="/Product/dataDownload/'+file.id+'"></a></li>'
               });
             htmlText += '</ul>';
             htmlText += '</div>';              
