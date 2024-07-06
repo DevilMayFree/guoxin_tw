@@ -1,0 +1,22 @@
+
+.col-lg-12 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+.d-none {
+    display: none !important;
+}
+.d-block {
+    display: block !important;
+}
+
+@media (min-width: 576px) {
+    .d-sm-block {
+        display: block !important;
+    }
+
+    .d-sm-none {
+        display: none !important;
+    }
+}

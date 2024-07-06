@@ -1,0 +1,330 @@
+
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+.pst-content {
+  padding-left: 10px;
+}
+
+#portfolio-flters {
+  padding: 0;
+  margin: 5px 0 35px 0;
+  list-style: none;
+  text-align: center;
+}
+
+#portfolio-flters li {
+  cursor: pointer;
+  margin: 15px 15px 15px 0;
+  display: inline-block;
+  padding: 8px 24px;
+  font-size: 12px;
+  line-height: 20px;
+  color: #555;
+  border-radius: 50px;
+  text-transform: uppercase;
+  background: #fff;
+  margin-bottom: 5px;
+  transition: all 0.3s ease-in-out;
+  border: 1px solid #444;
+}
+
+#portfolio-flters li:hover,
+#portfolio-flters li.filter-active {
+  border-color: #3EC1D5;
+  background: #3EC1D5;
+  color: #fff;
+}
+
+#portfolio-flters li:last-child {
+  margin-right: 0;
+}
+
+
+/* other.html */
+
+
+.main-list{
+  padding: 20px 40px 50px;
+  color: #53565a;
+}
+.main-list .title{
+  color: #ad9b68;
+}
+.main-list ul.tab-title{
+  margin-bottom: 20px;
+}
+.main-list ul.tab-title.line{
+  border-bottom: 1px solid #bfa66f;
+}
+.main-list ul.tab-title li{
+  display: inline-block;
+  font-size: 18px;
+  text-align: center;
+  position: relative;
+  color: #595757;
+  padding: 0 20px;
+  cursor: pointer;
+}
+.main-list ul.tab-title li a{
+  display:block;
+  width: 120px;
+  padding-bottom: 15px;
+  cursor: pointer;
+}
+.main-list ul.tab-title li:hover,
+.main-list ul.tab-title li.current{
+  color: #bfa670;
+}
+.main-list .tab-content{
+  display: none;
+}
+.main-list .tab-content.current{
+  display: block;
+}
+.main-list .tab2-title{
+  font-size: 18px;
+  text-align: center;
+  text-align: left;
+}
+.main-list .tab2-title a{
+  padding: 10px 20px;
+}
+.main-list .tab2-title .on{
+  color: #bfa670;
+}
+.main-list ul.tab2-content{
+  margin-top: 30px;
+  padding: 0 15px;
+  display: none;
+}
+.main-list ul.tab2-content a{
+  color: #666;
+}
+.main-list ul.tab2-content.current{
+  display: block;
+}
+.main-list ul.tab2-content li{
+  border-bottom: 1px dashed #e5e5e5;
+  color: #53565a;
+  line-height: 40px;
+  margin: 0;
+  padding: 0 5px;
+}
+.main-list ul.tab2-content li a{
+  display:block;
+  position:relative;
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  padding-right: 90px;
+}
+.main-list ul.tab2-content li a span{
+  color: #aaa;
+  position: absolute;
+  right: 0;
+  font-weight: normal;
+}
+.main-list ul.tab2-content li a:hover{
+  color: #ad8c42;
+}
+
+
+.swiper-horizontal{font-size: 18px;margin: 0 0 1rem;text-align: center;line-height: 2rem;}
+.swiper-horizontal .current{color:#ac9b67;}
+.swiper-horizontal .swiper-slide{width: auto;padding: 0 20px;cursor: pointer;}
+
+
+.main-list .news{
+  margin-top: 20px;
+}
+.main-list .news li{
+  border-bottom: 1px dashed #ddd;
+}
+.main-list .news li .wrap{
+  background: #fafafa;
+  margin: 30px 2%;
+  position: relative;
+}
+.main-list .news .thumb{
+  width: 35%;
+  float: left;
+}
+.main-list .news .thumb img{
+  width: 100%;
+}
+.main-list .news .brief{
+  width: 60%;
+  margin-left: 5%;
+  padding-right: 1%;
+  float: left;
+  color: #6b6b6b;
+}
+.main-list .news .brief .title{
+  font-size: 18px;
+  font-weight: bold;
+  margin: 5px 0 10px;
+  color: #53565a;
+}
+.main-list .news .brief .desc{
+  line-height: 25px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.main-list .news .brief .time{
+  position: absolute;
+  bottom: 10%;
+  right: 2%;
+}
+.search-pagination{
+  text-align: center;
+}
+
+
+.main-list ul.faq{
+  display:none;
+}
+.main-list ul.faq:first-child{
+  display:block;
+}
+.main-list ul.faq li{
+  position:relative;
+  border-bottom: 1px dashed #e5e5e5;
+  padding: 5px 0;
+}
+.main-list ul.faq li .question{
+  display: block;
+  padding: 10px 35px 10px 35px;
+}
+.main-list ul.faq li .question:before{
+  content:'Q';
+  background: #ad9b68;
+  color: #fff;
+  width: 23px;
+  height: 23px;
+  line-height: 23px;
+  text-align: center;
+  border-radius: 3px;
+  position: absolute;
+  left: 0;
+  top: 13px;
+}
+.main-list ul.faq li .question:after{
+  position: absolute;
+  right: 10px;
+  top: 14px;
+  font-size: 20px;
+}
+.main-list ul.faq li .question.down:after{
+  content:'+';
+}
+.main-list ul.faq li .question.up:after{
+  content:'-';
+}
+.main-list ul.faq li .answer{
+  padding: 10px;
+  padding-top: 0;
+  padding-left: 35px;
+  display: none;
+  line-height: 24px;
+  color: #666;
+  position: relative;
+}
+.main-list ul.faq li .answer:before{
+  content:'A';
+  background: #bfbfbf;
+  color: #fff;
+  width: 23px;
+  height: 23px;
+  line-height:23px;
+  text-align: center;
+  border-radius: 3px;
+  position: absolute;
+  left: 0;
+  top: 1px;
+}
+
+
+.activity .item{
+  position: relative;
+  border-top: 1px dashed #ddd;
+  padding: 2rem 0;
+  display: block;
+  height: 15rem;
+}
+.activity .item:first-child{
+  border:none;
+  padding-top: 0;
+}
+.activity .thumb{
+  width: 48%;
+  float: left;
+}
+.activity .thumb img{
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  max-height: 200px;
+}
+.activity .con-r{
+  float: left;
+  width: 48%;
+  margin-left: 3%;
+  color: #7d7e80;
+}
+.activity .title{
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.activity .desc{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.activity .status{
+  position: absolute;
+  bottom: 2rem;
+  border: 1px solid;
+  border-radius: 5px;
+  color: #ad9b68;
+  padding: 0 10px;
+  line-height: 26px;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.activity .status-mobile {
+  position: absolute;
+  bottom: 4rem;
+  border: 1px solid;
+  border-radius: 5px;
+  color: #ad9b68;
+  padding: 0 10px;
+  line-height: 26px;
+  font-weight: normal;
+  font-size: 14px;
+  left: 1rem;
+}
+
+.activity .status.offline{
+  color: #999;
+}
+.activity .time{
+  position: absolute;
+  bottom: 2rem;
+  right: 10px;
+  color: #ad9b68;
+}
+
+.activity .time-mobile{
+  position: absolute;
+  bottom: 0rem;
+  right: 0rem;
+  color: #ad9b68;
+}
