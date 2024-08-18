@@ -26,6 +26,8 @@
     <link rel="stylesheet" href="./assets/css/css/jquery.scrollbar.css?v=20240614"/>
     <link rel="stylesheet" href="./assets/css/style.css?v=20240614"/>
 
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./activity/style.css"/>
 
 </head>
 
@@ -354,6 +356,43 @@
     </article>
     <button class="footer-toTop"><i class="icon icon-arrowIn"></i></button>
     <button class="footer-toTop footer-toTop--fix"><i class="icon icon-arrowIn"></i></button>
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog custom-width">
+            <div class="modal-content activity">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">在線活動</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <a href="https://luckdraw.tw/?code=e788c6a1666c440ca49697031dd363aa">
+                    <div class="filter-app item clearfix">
+                        <div class="thumb"><img src="./activity/img/2.png"></div>
+                        <div class="con-r">
+                            <div class="title">
+                                <span class="status offline d-none d-sm-block">進行中</span>
+                                <a href="https://luckdraw.tw/?code=e788c6a1666c440ca49697031dd363aa"><span class="status offline d-none d-sm-block" style="right: 18rem;">點擊參與</span></a>
+                                <span class="status-mobile offline d-block d-sm-none">進行中</span>
+                                <a href="https://luckdraw.tw/?code=e788c6a1666c440ca49697031dd363aa"><span class="status-mobile offline d-block d-sm-none" style="left: 5rem;">點擊參與</span></a>
+                                “盒禮”一起過“金”秋</div>
+                            <span class="time d-none d-sm-block">2021年09月06日-2021年10月15日</span>
+                            <span class="time-mobile d-block d-sm-none">2021年09月06日-2021年10月15日</span>
+                            <div class="desc">
+                                國新投資“盒禮”一起過金秋，黃金好禮送不停！又是一年團圓時，為感謝新老客戶的信任與支持，國新於2021年9月6日至10月15日推出中秋回饋活動，豐厚的獎勵等您來領
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">關閉</button>
+                    <a href="https://luckdraw.tw/?code=e788c6a1666c440ca49697031dd363aa">
+                        <button type="button" class="btn btn-primary" id="goto">抽獎</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 </footer>
 
 
@@ -370,6 +409,8 @@
 <script src="/assets/js/vendor/blazy.min.js?v=20240614"></script>
 
 <script src="/assets/js/main-dist.js?v=20240614"></script>
+
+<script src="./bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <script>
     $("li.share-item").on('click', function (event) {
@@ -526,6 +567,15 @@
     if (preview.test(nowHost)) {
         $('body').append("<div style='position:fixed;bottom:0;left:0;background-color:#ff00b4;color:#fff;font-size:12px;z-index:999;padding:0 30px;line-height:2'>這裡是國新的測試小天地</div>");
     }
+</script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var myModal = new bootstrap.Modal(document.getElementById('exampleModal'), {
+            keyboard: false
+        });
+        myModal.show();
+    });
 </script>
 
 

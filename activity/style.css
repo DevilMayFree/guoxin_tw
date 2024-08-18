@@ -328,3 +328,15 @@
   right: 0rem;
   color: #ad9b68;
 }
+
+
+.modal-dialog.custom-width {
+  margin-top: 10%;
+  max-width: 60%;
+}
+
+@media (max-width: 768px) {
+  .modal-dialog.custom-width {
+    max-width: 100%; /* 移动端宽度 */
+  }
+}
