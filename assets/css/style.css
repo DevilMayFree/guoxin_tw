@@ -7220,7 +7220,7 @@ table.DTFC_Cloned thead, table.DTFC_Cloned tfoot {
   margin: 0 auto; }
 
 .news .news-inner {
-  position: relative;
+  /*position: relative;*/
   margin-top: 27.5px;
   margin-bottom: 170px; }
   @media only screen and (max-width: 767px) {
